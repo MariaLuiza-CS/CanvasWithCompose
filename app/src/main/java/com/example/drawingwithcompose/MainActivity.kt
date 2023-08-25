@@ -76,7 +76,7 @@ class MainActivity : ComponentActivity() {
                         ) {
                             drawRect(
                                 color = Color.Red,
-                                topLeft = Offset(x = 50f, y = 50f)
+                                topLeft = Offset(x = 100f, y = 100f)
                             )
                         }
                     }
